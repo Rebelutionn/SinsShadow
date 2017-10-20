@@ -1,3 +1,5 @@
+
+
 if instance_exists(objAmeliaV2)
 	{
 	if distance_to_object(objAmeliaV2) < iBatDetectionRadius
@@ -21,6 +23,7 @@ hit = instance_place (x, y, objSwordHitbox);
 
 if (hit != noone)
 	{
-	hit.batHP -= 1;
+	//hit.batHP -= 1; BREAKING GAME
 	instance_destroy ();
 	}
+	

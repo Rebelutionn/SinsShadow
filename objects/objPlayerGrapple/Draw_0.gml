@@ -3,5 +3,6 @@
 draw_self();
 
 if(active){
-	draw_line(x,y,mx,my);
+	draw_line_width_color(x,y,mx,my,5,c_teal,c_teal);
+
 }

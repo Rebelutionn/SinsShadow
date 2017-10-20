@@ -3,3 +3,4 @@
 mx = x; // hook x coordinates
 my = y; // hook y coordinates
 active = false;
+iGrappleRadius = 310;

@@ -1,6 +1,6 @@
 //HIT THAT BAT
 
-hit = instance_place   (x, y, objBat);
+hit = instance_place   (x, y, objBat && objBat1 && objBat2);
 
 if (hit != noone)
 	{
