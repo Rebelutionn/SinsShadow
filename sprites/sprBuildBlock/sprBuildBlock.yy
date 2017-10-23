@@ -2,7 +2,7 @@
     "id": "e679f870-9df5-4d94-af07-a918d75f67ad",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprBlock",
+    "name": "sprBuildBlock",
     "For3D": false,
     "HTile": false,
     "VTile": false,
