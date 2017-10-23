@@ -17,3 +17,4 @@ if keyboard_check_pressed(vk_f2) room_restart();
 if keyboard_check_pressed(vk_f1) game_restart();
 if keyboard_check_pressed(vk_f3) room_goto_previous();
 
+if keyboard_check_pressed(vk_numpad1) room_goto(rmWhiteBox);
