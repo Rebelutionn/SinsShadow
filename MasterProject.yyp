@@ -511,14 +511,6 @@
             }
         },
         {
-            "Key": "783b4506-ce8d-4509-8024-060fef6267be",
-            "Value": {
-                "id": "8d0ae90b-60aa-46d7-9107-8130523853a7",
-                "resourcePath": "rooms\\rmStage1\\rmStage1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "7851d607-06fe-42a8-aab6-fa37141f1e08",
             "Value": {
                 "id": "26810246-6bb0-4580-990e-4622bab41c5b",
@@ -916,6 +908,14 @@
                 "id": "6a484f9a-61ae-40d0-9540-d0c014e1852e",
                 "resourcePath": "objects\\objBuildBlock\\objBuildBlock.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3435b88-2019-4af9-b363-4fee34e2fb63",
+            "Value": {
+                "id": "8f7356db-a81b-424f-9d84-42a5342f1661",
+                "resourcePath": "rooms\\rmStage1\\rmStage1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
