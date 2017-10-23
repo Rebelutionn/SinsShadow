@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "1fb7bde5-0afa-4f74-8d26-0724e9ba5985",
+            "Value": {
+                "id": "2dc35129-cfe2-4454-bd04-91f33b06b9d3",
+                "resourcePath": "sprites\\sprAmeliaWalkV2\\sprAmeliaWalkV2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "251682cd-237b-4e2f-b4f6-88e444eb7211",
             "Value": {
                 "id": "1d9eeaea-0faf-4229-9b5e-e7c01d2ec56a",
