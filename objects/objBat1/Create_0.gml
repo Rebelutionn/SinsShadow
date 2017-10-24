@@ -10,5 +10,7 @@ bContinuePathOnce = 1;
 iBatDetectionRadius = 100;
 iBatSpeed = 2.25;
 iBatDamage = 5;
+iPrevFrameX = 0;
+
 
 path_start(pathEnemyBat1, iBatSpeed, path_action_restart, 0);

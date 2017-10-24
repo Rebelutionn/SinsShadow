@@ -26,6 +26,8 @@ bGotHit = 0;
 iCurrentHP = 100; 
 iMaxHP = 100;
 
+
+iPrevFrameX = 0;
 /*
 //Camera
 camSpeed = 16;

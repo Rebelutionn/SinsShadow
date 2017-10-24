@@ -27,3 +27,12 @@ if (hit != noone)
 	instance_destroy ();
 	}
 	
+if (x < iPrevFrameX)
+	{
+		image_xscale = 1;
+	}
+else 
+	{
+		image_xscale = -1;
+	}
+iPrevFrameX = x;	
