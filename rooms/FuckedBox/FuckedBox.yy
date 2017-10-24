@@ -2,7 +2,7 @@
     "id": "07e8764a-8dd5-483b-9570-740ac8d16d99",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "rmStage1",
+    "name": "FuckedBox",
     "IsDnD": false,
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
