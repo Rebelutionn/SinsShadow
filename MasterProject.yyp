@@ -65,8 +65,8 @@
         {
             "Key": "07e8764a-8dd5-483b-9570-740ac8d16d99",
             "Value": {
-                "id": "caa3805c-ef77-43d8-9e84-08b902bf07d7",
-                "resourcePath": "rooms\\rmWhiteBox\\rmWhiteBox.yy",
+                "id": "8e9d2541-3a4b-4694-a8f3-b730caba73b4",
+                "resourcePath": "rooms\\FuckedBox\\FuckedBox.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -943,6 +943,14 @@
             }
         },
         {
+            "Key": "d3435b88-2019-4af9-b363-4fee34e2fb63",
+            "Value": {
+                "id": "8f7356db-a81b-424f-9d84-42a5342f1661",
+                "resourcePath": "rooms\\rmStage1\\rmStage1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d4eb5434-a632-4577-9bcb-6cc4920a9ac3",
             "Value": {
                 "id": "dff726ca-d6b1-4c69-a667-eb2b9e6838d3",
@@ -980,6 +988,14 @@
                 "id": "32962d1a-cc38-4b72-88e0-f347c39c3a07",
                 "resourcePath": "sprites\\sprStage1Accessories\\sprStage1Accessories.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9f7dea8-678f-446b-9d90-b4d5039ee93c",
+            "Value": {
+                "id": "8634bdca-ea66-4986-b239-13e7a27cd2d7",
+                "resourcePath": "rooms\\WhiteBox\\WhiteBox.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

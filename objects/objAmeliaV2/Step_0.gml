@@ -50,14 +50,14 @@ var move = key_right - key_left;
 hsp = move * walksp;
 vsp = vsp + grv;
 
-if (place_meeting (x,y+1,objCollision)) && (key_jump){
+if (place_meeting (x,y+1,objBuildBlock)) && (key_jump){
 	vsp = -7.5;
 }
               
 	
 //Horizontal Collision
-if(place_meeting(x+hsp,y,objCollision)){
-	while(!place_meeting(x+sign(hsp),y,objCollision)){
+if(place_meeting(x+hsp,y,objBuildBlock)){
+	while(!place_meeting(x+sign(hsp),y,objBuildBlock)){
 		x = x + sign(hsp); 
 	}
 	hsp = 0;
@@ -66,8 +66,8 @@ x = x + hsp;
 
 
 //Vertical Collision
-if(place_meeting(x,y+vsp,objCollision)){
-	while(!place_meeting (x,y+sign(vsp),objCollision)){
+if(place_meeting(x,y+vsp,objBuildBlock)){
+	while(!place_meeting (x,y+sign(vsp),objBuildBlock)){
 		y = y + sign(vsp);
 	}
 	vsp = 0;
@@ -114,7 +114,7 @@ if(mouse_check_button_pressed(mb_right)){
 	instance_create_layer(x,y,"Player",objGrapple);
 	mx = mouse_x;
 	my = mouse_y; 
-	if(place_meeting(mx,my,objCollision)){
+	if(place_meeting(mx,my,objGrappleBlock)){
 		active = true;
 	}
 }
