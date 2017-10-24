@@ -7,7 +7,7 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 49,
-    "bbox_left": 9,
+    "bbox_left": 1,
     "bbox_right": 37,
     "bbox_top": 2,
     "bboxmode": 0,
@@ -142,7 +142,7 @@
         }
     ],
     "origin": 4,
-    "playbackSpeed": 2,
+    "playbackSpeed": 3,
     "playbackSpeedType": 0,
     "sepmasks": false,
     "swatchColours": null,
