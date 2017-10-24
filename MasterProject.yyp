@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "05a2d7ea-0dbb-45f7-9315-b8f8ea0bb935",
+            "Value": {
+                "id": "e08b205a-c73a-4272-ad19-602917c2f224",
+                "resourcePath": "rooms\\rmPlatformTesting\\rmPlatformTesting.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "07e8764a-8dd5-483b-9570-740ac8d16d99",
             "Value": {
                 "id": "caa3805c-ef77-43d8-9e84-08b902bf07d7",
@@ -188,6 +196,14 @@
                 "id": "1d9eeaea-0faf-4229-9b5e-e7c01d2ec56a",
                 "resourcePath": "views\\251682cd-237b-4e2f-b4f6-88e444eb7211.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "256d3b2c-56b6-42ce-a6b0-4788b7459ad0",
+            "Value": {
+                "id": "dcb9d8e8-1ea2-49ad-8e06-b4c2620fe0e4",
+                "resourcePath": "objects\\objWall\\objWall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -540,6 +556,14 @@
                 "id": "5712312d-339e-4418-9c28-736fee6de452",
                 "resourcePath": "tilesets\\tsStage1Field\\tsStage1Field.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "7c6ae7a4-7b0a-48ed-a240-b31eeb74a599",
+            "Value": {
+                "id": "222948ea-4458-4596-9451-90c827d62b48",
+                "resourcePath": "sprites\\sprPlatform\\sprPlatform.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1063,6 +1087,14 @@
             }
         },
         {
+            "Key": "ec35c988-4972-4a7e-bfb5-e3b76f9ad789",
+            "Value": {
+                "id": "238df25b-e1e5-4156-b2af-a6685c214725",
+                "resourcePath": "objects\\objPlatform\\objPlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eca6a2ed-0b13-43f1-9996-f30f31e6d37c",
             "Value": {
                 "id": "0028cf04-4604-4329-82af-355aec85af24",
@@ -1084,6 +1116,14 @@
                 "id": "4324a472-368d-4f3a-b287-ecd0ece18ec3",
                 "resourcePath": "views\\ee9a9be9-c02c-45ae-99be-2b7eab522a58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eec0ea3f-841e-46a5-91be-b1a9fe6c7315",
+            "Value": {
+                "id": "027ab4f3-b5bc-4754-a8e0-91e2faa34b03",
+                "resourcePath": "sprites\\sprWall\\sprWall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

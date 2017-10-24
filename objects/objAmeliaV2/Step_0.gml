@@ -3,6 +3,7 @@ key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_jump = keyboard_check(vk_space);
 key_attack = mouse_check_button_pressed(mb_left);
+key_down = keyboard_check(ord("S"));
 
 if (key_left) || (key_right)  ||  (key_jump)
 {
