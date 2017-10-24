@@ -8,6 +8,9 @@ controller = 0;
 
 deltax = 0;
 
+
+key_down = 0;
+
 //Grapple Operation  
 mx = x; //grapple x coordinates 
 my = y; //grapple y coordinates 
