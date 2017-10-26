@@ -35,4 +35,4 @@ else
 	{
 		image_xscale = -1;
 	}
-iPrevFrameX = x;	
+iPrevFrameX = x;

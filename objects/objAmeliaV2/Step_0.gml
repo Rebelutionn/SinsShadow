@@ -75,19 +75,24 @@ if(place_meeting(x,y+vsp,objCollision)){
 y = y + vsp;
 
 //Attack
-if(mouse_check_button(mb_left)) {
-	sprite_index = sprSwordAtk; 
+if(mouse_check_button(mb_left))
+{
+	//audio_play_sound(sndSwordAttack, 1, false);
+	sprite_index = sprSwordAtk;
 	image_index = -1;
 	var xdiff = x - xprevious;
 	
-	if(!(xdiff = 0)){
+	if(!(xdiff = 0))
+	{
 		deltax = xdiff;
 	}
 	instance_create_layer(x+ sign(other.x),y+sign(other.y)*32,"Player",objSwordHitbox);
-	if(image_index >= 7) && (mouse_check_button_released(mb_left)){
+	if(image_index >= 7) && (mouse_check_button_released(mb_left))
+	{
 		image_speed = 0;
 		sprite_index = sprAmeliaV2;
 	} 
+	
 }
 
 /*if(mouse_check_button(mb_left)){

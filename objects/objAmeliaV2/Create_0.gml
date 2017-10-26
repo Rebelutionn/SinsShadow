@@ -28,6 +28,7 @@ iMaxHP = 100;
 
 
 iPrevFrameX = 0;
+
 /*
 //Camera
 camSpeed = 16;
