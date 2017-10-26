@@ -1,5 +1,3 @@
-
-
 if instance_exists(objAmeliaV2)
 	{
 	if distance_to_object(objAmeliaV2) < iBatDetectionRadius
@@ -27,3 +25,12 @@ if (hit != noone)
 	instance_destroy ();
 	}
 	
+if (x < iPrevFrameX)
+	{
+		image_xscale = 1;
+	}
+else 
+	{
+		image_xscale = -1;
+	}
+iPrevFrameX = x;

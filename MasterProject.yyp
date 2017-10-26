@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "404e4d95-f000-47bf-9e22-7c92e61ac835",
+            "Value": {
+                "id": "c5622a4d-5f6b-4bf7-823c-43de0f1bbf8a",
+                "resourcePath": "sounds\\sndSwordAttack\\sndSwordAttack.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "412bdab9-f7b1-4cd6-a195-877a92d0f47a",
             "Value": {
                 "id": "4c804045-9e62-4ae2-85a5-51582ba2ba14",
